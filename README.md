@@ -1,4 +1,4 @@
-# Flutter Checkout Demo Using Rapyd API
+# Flutter Checkout Demo Using Rapyd OpenAPI
 
 Launch the application on Chrome using 
 
