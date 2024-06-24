@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Need help with your integration?
-    url: https://community.rapyd.net/new-topic?title=Type%20your%20question%20title%20here&body=Type%20your%20integration%20question%20here.&category=rapyd-api-resources/rapyd-api-ask-questions&tags=api,question,origin-github
+    url: https://community.rapyd.net/new-topic?title=Type%20your%20question%20title%20here&body=Type%20your%20integration%20question%20here.&category=rapyd-api-resources/rapyd-api-ask-questions&tags=origin-github
     about: Ask questions or talk with others. 
